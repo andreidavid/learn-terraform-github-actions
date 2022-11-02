@@ -15,7 +15,7 @@ terraform {
     organization = "example-org-2f1271"
 
     workspaces {
-      name = "example-org-2f1271"
+      name = "demo-github-actions"
     }
   }
 }
